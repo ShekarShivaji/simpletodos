@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+}
+
+.bgContainer {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.CardContainer {
+  width: 90%;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 40px;
+  margin: 40px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 40px;
+  align-self: center;
+  text-align: center;
+  margin-bottom: 30px;
+}
